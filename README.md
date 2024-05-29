@@ -1,5 +1,7 @@
 # React + Vite
 
+Live demo : https://react-educity.vercel.app/
+
 - Intégration CSS
 - Animation CSS
 - Composant réutilisables (Title,...)
@@ -16,5 +18,3 @@
 - Map on testimonials
 - Restructuer les composants pour sortir la logique des vues
 - Breack contact form into input components and add React hook form + Zod or Yup
-
-- Send to Github
